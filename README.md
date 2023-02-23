@@ -1,4 +1,4 @@
-<template>
+<template> 
   <div ref="dragDiv" class="float-drag-button">
     <span>凯小默的博客</span>
   </div>
